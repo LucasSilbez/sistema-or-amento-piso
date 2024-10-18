@@ -11,7 +11,7 @@
 
 <body>
     <div class="mt-1" id="container">
-        <h3>Sistema de Orçamento - SOS Pisos de Madeira</h3>
+        <h3>Sistema de Orçamento</h3>
         <div class="orcButtons mt-4">
             <a href="./pages/orcamentoPages/orcLaminado.php" class="btn btn-primary">Laminado</a>
             <a href="./pages/orcamentoPages/orcVinilico.php" class="btn btn-primary">Vinílico</a>
