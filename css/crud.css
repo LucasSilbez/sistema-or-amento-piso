@@ -1,0 +1,25 @@
+body {
+    background: url('../assets/fundo.png') center/cover fixed no-repeat;
+}
+
+#logo {
+    width: 35px;
+    height: auto;
+}
+
+#navbar {
+    background-color: rgb(68, 58, 56);
+}
+
+#formularioAtualizacao {
+    color: white;
+    margin-top: 100px;
+}
+
+h3 {
+    color: white;
+}
+
+#listProd {
+    margin-top: 100px;
+}

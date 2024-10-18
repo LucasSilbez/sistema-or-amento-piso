@@ -1,0 +1,34 @@
+body {
+    background: url('../assets/fundo.png') center/cover fixed no-repeat;
+}
+
+#formContainer {
+    margin-top: 90px;
+
+}
+
+#tableContainer {
+    margin-top: 90px;
+    color: white;
+}
+
+#destaque {
+    background-color: #9c5126;
+    font-size: 18px;
+    
+}
+
+#gerarButton {
+    background-color: #9c5126;
+    border: #000;
+}
+
+
+#logo {
+    width: 35px;
+    height: auto;
+}
+
+#navbar {
+    background-color: rgb(68, 58, 56);
+}
